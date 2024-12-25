@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/SerGO/Desktop/teor_inf_03-main/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\23.dir\\main.cpp.obj -c C:\\Users\\SerGO\\Desktop\\teor_inf_03-main\\main.cpp",
+  "file": "C:\\Users\\SerGO\\Desktop\\teor_inf_03-main\\main.cpp",
+  "output": "CMakeFiles\\23.dir\\main.cpp.obj"
+}
+]
